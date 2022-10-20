@@ -7,6 +7,8 @@ from tensorflow.keras.models import load_model
 
 from ImageProcessing import FaceDetections
 
+model = load_model('my_model.h5')
+
 test = 'test'
 target_pred = []
 for p in os.listdir(test):
