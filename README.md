@@ -14,8 +14,6 @@ Running `Face-Recognition` requires:
 * cv2 4.6.0
 * matplotlib 3.5.1
 
-## Results
-
 ### Installation
 In order to test the script please run the following commands:
 ```sh
