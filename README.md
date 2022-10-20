@@ -5,7 +5,6 @@ Here you can work on one class or many classes. A class of persons who do not ha
 The data is from certain people and myself. You can download kaggle data from the link below or work on your own data.
 https://www.kaggle.com/datasets/ashwingupta3012/human-faces 
 
-
 ### Requirements
 Running `Face-Recognition` requires:
 * Python 3.8 (tested under Python 3.10.4)
@@ -14,6 +13,8 @@ Running `Face-Recognition` requires:
 * keras 2.9.0
 * cv2 4.6.0
 * matplotlib 3.5.1
+
+## Results
 
 ### Installation
 In order to test the script please run the following commands:
@@ -32,4 +33,4 @@ pip install opencv-python
 A summary of explanations about libraries:
 * The `cv2` helps to read and working with image.
 * The `numpy` it makes it easy to do math and work with matrices.
-* The `tensorflow vs keras` Python  library helps to use Multiplying the weights in the matrix and artificial intelligence algorithms..
+* The `tensorflow vs keras` Python  library helps to use Multiplying the weights in the matrix and artificial intelligence algorithms.
