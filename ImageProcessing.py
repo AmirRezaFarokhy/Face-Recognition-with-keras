@@ -5,7 +5,7 @@ class FaceDetections:
     
     def __init__(self, frame, sizes):
         self.frame = frame
-        self.HaarCascadeFace = cv2.CascadeClassifier('CasCade/Face_Detect.xml')
+        self.HaarCascadeFace = cv2.CascadeClassifier('Cascade/Face_Detect.xml')
         self.size = sizes
     
     # Crop Face from images
