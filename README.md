@@ -1,5 +1,5 @@
 # Face-Recognition-with-keras
-Here you can work on one class or many classes. A class of persons who do not have access and are not identified and a series of classes of persons who have access and are identified. In this example, two classes have been worked on.
+Here you can work on one class or many classes. A class of persons who do not have access and are not identified and a series of classes of persons who have access and are identified. In this repo, two classes have been worked on.
 
 ## Datasets
 The data is from certain people and myself. You can download kaggle data from the link below or work on your own data.
